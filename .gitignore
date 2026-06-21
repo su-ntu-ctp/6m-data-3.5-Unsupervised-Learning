@@ -4,3 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 .env
+*_interactive_3d.html
